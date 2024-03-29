@@ -73,9 +73,9 @@ align-items: center;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-        display: block;
-            padding-top: 24px;
-            padding-bottom: 24px;
+    display: block;
+    padding-top: 24px;
+    padding-bottom: 24px;
     
 }
 
@@ -120,7 +120,6 @@ align-items: center;
     background-color: #2e2f42;
     padding-top: 188px;
     padding-bottom: 188px;
-
 }
 
 .hero-title {
@@ -188,7 +187,7 @@ background-color: #404bbf;
 }
 
 .feauture-list-item {
-    width: calc((100%-72px)/4);
+    width: calc((100% - 72px) / 4);
 }
 
 .item-title {
